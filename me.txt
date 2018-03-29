@@ -1,1 +1,5 @@
-I'm a postdoc at stanford School of medecine in the department of pediactric cardiology I completed my phd at the University of Paris SUD in genetic epidemiology I currently work on cardiovascular disease but was working on cancer before
+I'm a postdoc at stanford School of medecine in the department of pediactric cardiology 
+I completed my phd at the University of Paris SUD in genetic epidemiology 
+My initial background is in veterinary medecine 
+
+my current project is to study whether gene associated my MD are also independently with phenotypes observe in MD
